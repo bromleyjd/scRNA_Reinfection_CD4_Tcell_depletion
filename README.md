@@ -1,2 +1,11 @@
 # scRNA_Reinfection_CD4_Tcell_depletion
-scRNA_Reinfection_CD4_Tcell_depletion
+_Publication: CD4+ T cells re-wire granuloma cellularity and regulatory networks, promoting immunomodulation following Mtb reinfection. Bromley, J.D., Ganchua, S.K.C., et al., Immunity (2024)_
+
+ABSTRACT: Immunological priming – either in the context of prior infection or vaccination – elicits protective responses against subsequent Mycobacterium tuberculosis (Mtb) infection. However, the changes that occur in the lung cellular milieu post-primary Mtb infection and their contributions to protection upon reinfection remain poorly understood. Here, using clinical and microbiological endpoints in a non-human primate reinfection model, we demonstrate that prior Mtb infection elicits a long-lasting protective response against subsequent Mtb exposure and that the depletion of CD4+ T cells prior to Mtb rechallenge significantly abrogates this protection. Leveraging microbiologic, PET-CT, flow cytometric, and single-cell RNA-seq data from primary infection, reinfection, and reinfection-CD4+ T cell depleted granulomas, we identify differential cellular and microbial features of control. The data collectively demonstrate that the presence of CD4+ T cells in the setting of reinfection results in a reduced inflammatory lung milieu characterized by reprogrammed CD8+ T cell activity, reduced neutrophilia, and blunted type-1 immune signaling among myeloid cells, mitigating Mtb disease severity. These results open avenues for developing vaccines and therapeutics that not only target CD4+ and CD8+ T cells, but also modulate innate immune cells to limit Mtb disease. 
+
+This repository contains the associated code used for the analysis of Seq-Well S^3 single-cell transcriptomes derived from primary infection, reinfection, and reinfection-CD4 depletion cynomolgus macaque (_Macaca Fascicularis_) TB granulomas. 
+
+All data have been made publically available. These data can be found at these repositories and interactive sites: i) SRA (FASTQs, h5 files), ii) and the Alexandria Portal/Broad Single-Cell Portal (adata object, raw counts, etc.).
+
+Users can utilize the Alexandria Portal's "Explore" feature to interact, query gene expression profiles, and perform high-level analyses of primary infection, reinfection, and reinfection-CD4 T cell depltion TB granulomas (see below link).
+https://singlecell.broadinstitute.org/single_cell/study/SCP2689/immunomodulatory-re-wiring-of-granuloma-cellularity-and-regulatory-networks-by-cd4-t-cells-following-mtb-reinfection 
