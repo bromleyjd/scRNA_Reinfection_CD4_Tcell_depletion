@@ -5,7 +5,7 @@ ABSTRACT: Immunological priming – either in the context of prior infection or 
 
 This repository contains the associated code used for the analysis of Seq-Well S^3 single-cell transcriptomes derived from primary infection, reinfection, and reinfection-CD4 depletion cynomolgus macaque (_Macaca Fascicularis_) TB granulomas. 
 
-All data have been made publically available. These data can be found at these repositories and interactive sites: i) SRA (FASTQs, h5 files), ii) and the Alexandria Portal/Broad Single-Cell Portal (adata object, raw counts, etc.).
+All data have been made publically available. These data can be found at these repositories and interactive sites: i) SRA (FASTQs), ii) and the Alexandria Portal/Broad Single-Cell Portal (adata object, raw counts, etc.).
 
 Users can utilize the Alexandria Portal's "Explore" feature to interact, query gene expression profiles, and perform high-level analyses of primary infection, reinfection, and reinfection-CD4 T cell depltion TB granulomas (see below link).
 https://singlecell.broadinstitute.org/single_cell/study/SCP2689/immunomodulatory-re-wiring-of-granuloma-cellularity-and-regulatory-networks-by-cd4-t-cells-following-mtb-reinfection 
